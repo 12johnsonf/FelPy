@@ -69,7 +69,7 @@ variableName = confReturn.do("gender")
 ```
 Where `"gender"` can be any string being set. Play arround with it in IDLE, you'll get the gist of it.
 
-###leaderboard
+### leaderboard
 For this one, import `leaderboard`
 
 It will generate a 10 line leaderboard. You can write to it with a name, up to 10
